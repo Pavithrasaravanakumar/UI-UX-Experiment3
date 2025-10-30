@@ -1,5 +1,8 @@
 # UI-UX-Experiment3
-
+```
+Name:Pavithra.S
+Reg No:212223220073
+```
 
 ## Aim:
 To compare and evaluate the UX design of Etsy and Amazon based on usability, design, navigation, and user engagement.
